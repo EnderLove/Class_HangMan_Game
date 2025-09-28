@@ -1,0 +1,3 @@
+/home/ender/Projects/C++/classHangMan/build/CMakeFiles/HangmanGame.dir
+/home/ender/Projects/C++/classHangMan/build/CMakeFiles/edit_cache.dir
+/home/ender/Projects/C++/classHangMan/build/CMakeFiles/rebuild_cache.dir

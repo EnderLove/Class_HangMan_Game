@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/ender/Projects/C++/classHangMan/build",
+  "command": "/usr/bin/g++  -I/home/ender/Projects/C++/classHangMan/includes -g -std=gnu++17 -o CMakeFiles/HangmanGame.dir/src/hangmangame.cpp.o -c /home/ender/Projects/C++/classHangMan/src/hangmangame.cpp",
+  "file": "/home/ender/Projects/C++/classHangMan/src/hangmangame.cpp",
+  "output": "CMakeFiles/HangmanGame.dir/src/hangmangame.cpp.o"
+},
+{
+  "directory": "/home/ender/Projects/C++/classHangMan/build",
+  "command": "/usr/bin/g++  -I/home/ender/Projects/C++/classHangMan/includes -g -std=gnu++17 -o CMakeFiles/HangmanGame.dir/src/main.cpp.o -c /home/ender/Projects/C++/classHangMan/src/main.cpp",
+  "file": "/home/ender/Projects/C++/classHangMan/src/main.cpp",
+  "output": "CMakeFiles/HangmanGame.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/ender/Projects/C++/classHangMan/build",
+  "command": "/usr/bin/g++  -I/home/ender/Projects/C++/classHangMan/includes -g -std=gnu++17 -o CMakeFiles/HangmanGame.dir/src/wordslib.cpp.o -c /home/ender/Projects/C++/classHangMan/src/wordslib.cpp",
+  "file": "/home/ender/Projects/C++/classHangMan/src/wordslib.cpp",
+  "output": "CMakeFiles/HangmanGame.dir/src/wordslib.cpp.o"
+}
+]
