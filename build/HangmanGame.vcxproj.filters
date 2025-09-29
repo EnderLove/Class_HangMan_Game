@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\src\hangmangame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\src\wordslib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\includes\hangmangame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\includes\wordslib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="K:\Proyects\Programming\C_Proyects\Class_HangMan_Game\resources\dictionary.txt">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{31824FB5-4470-3BED-AB40-FA6CAB918AF6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{A471B288-BB18-36D6-96B8-75C922B44E3C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DF8A1B8E-A1E9-334C-88F5-520107C35E72}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+K:/Proyects/Programming/C_Proyects/Class_HangMan_Game/build/CMakeFiles/HangmanGame.dir
+K:/Proyects/Programming/C_Proyects/Class_HangMan_Game/build/CMakeFiles/ALL_BUILD.dir
+K:/Proyects/Programming/C_Proyects/Class_HangMan_Game/build/CMakeFiles/ZERO_CHECK.dir
