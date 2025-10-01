@@ -3,7 +3,6 @@
 #include <string>
 #include "wordslib.h"
 
-
 void WordsLibrary::loadFromFile(const std::string& filePath)
 {
     std::ifstream stream(filePath);

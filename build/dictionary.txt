@@ -1,0 +1,21 @@
+#GAMES
+#EASY
+mario
+luigui
+ender
+steve
+#MID
+super mario
+final fantasy
+uncharted game
+#HARD
+kingdom hearts
+metal gear solid
+league of leguends
+#CLOTHES
+#EASY
+glasses
+#MID
+tshirt
+#HARD
+pants

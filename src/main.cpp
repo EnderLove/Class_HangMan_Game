@@ -5,10 +5,14 @@
 #include "hangmangame.h"
 #include "wordslib.h"
 
-int main() {
+int main() 
+{
+    //WE START INSTANTIATING THE OBJ WORDSLIB, LOADING IN IT THE FILE WITH THE DICITONARY AND SETING THE SEED TO THE SRAND FUNCTION
     WordsLibrary wordsLib;
     wordsLib.loadFromFile("../resources/dictionary.txt");
     std::srand(std::time(nullptr));
+
+    //========================  WITH THE DICTIONARY LOADED THEN WE CAN START WITH THE GAME ========================
 
     std::cout << "Welcome to Hangman!\n";
 

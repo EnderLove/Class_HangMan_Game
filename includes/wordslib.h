@@ -10,7 +10,7 @@ class WordsLibrary
 private:
     const char TAG_CHAR = '#';
     std::unordered_map<std::string, std::unordered_map<std::string, std::vector<std::string>>> data;
-
+    
 public: 
     void loadFromFile(const std::string& filepath);
     void showCategories() const;
