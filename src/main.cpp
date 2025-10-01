@@ -35,5 +35,7 @@ int main()
     HangmanGame game(secretWord);
     game.play();
 
+    std::cout << "Version-2.0\n";
+
     return 0;
 }
