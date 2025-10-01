@@ -33,9 +33,30 @@ int main()
     }
 
     HangmanGame game(secretWord);
-    game.play();
+    //game.play();
 
-    std::cout << "Version-2.0\n";
+
+
+    enum class MenuOptions {NONE = -1, PLAY, SETTINGS, EXIT};
+
+    MenuOptions mUserOption = MenuOptions::NONE;
+
+    unsigned short int option = 0;
+
+    do
+    {
+        std::cout << "Welcome to the hangmangame" << std::endl;
+        std::cout << "1)Play\n2)Settings\n3)Exit" << std::endl;
+        std::cin >> option;
+        mUserOption = static_cast<MenuOptions>(option);
+
+    } while (mUserOption != MenuOptions::PLAY || mUserOption != MenuOptions::SETTINGS || mUserOption != MenuOptions::EXIT);
+    
+
+
+
+
+
 
     return 0;
 }
