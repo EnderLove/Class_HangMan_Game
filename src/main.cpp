@@ -5,9 +5,6 @@
 #include "hangmangame.h"
 #include "wordslib.h"
 
-
-
-
 int main() 
 {
     //WE START INSTANTIATING THE OBJ WORDSLIB, LOADING IN IT THE FILE WITH THE DICITONARY AND SETING THE SEED TO THE SRAND FUNCTION
@@ -55,11 +52,5 @@ int main()
 
     } while (mUserOption != MenuOptions::PLAY && mUserOption != MenuOptions::SETTINGS && mUserOption != MenuOptions::EXIT);
     
-
-
-
-
-
-
     return 0;
 }
